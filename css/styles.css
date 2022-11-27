@@ -9,20 +9,24 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     text-align: right;
-    color: yellow;
+    color: lavenderblush;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
     text-align: right;
-    color: yellow;
+    color: lavenderblush;
 }
 li {
-    color: yellow;
+    color: lavenderblush;
+    line-height: .15em;
 }
 a:hover {
     text-decoration: underline;
     color: lavenderblush;
+}
+a {
+    color: lavenderblush
 }
 h1 {
     font-size: 2em;
@@ -40,7 +44,7 @@ h2 {
 p {
     font-size: 1em;
     line-height: .15em;
-    color: yellow;
+    color: lavenderblush;
 }
 footer {
     border-top: 1px solid #d5d5d5;
