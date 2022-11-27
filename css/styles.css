@@ -21,12 +21,21 @@ li {
     color: lavenderblush;
     line-height: .15em;
 }
+a:link {
+    text-decoration: underline;
+    color: lightblue;
+}
 a:hover {
     text-decoration: underline;
     color: lavenderblush;
 }
-a {
-    color: lavenderblush
+a:active {
+    text-decoration: underline;
+    color: green;
+}
+a:visited {
+    text-decoration: underline;
+    color: lightskyblue;
 }
 h1 {
     font-size: 2em;
