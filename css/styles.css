@@ -17,6 +17,9 @@ nav ul li, footer ul li {
     text-align: right;
     color: yellow;
 }
+li {
+    color: yellow;
+}
 a:hover {
     text-decoration: underline;
     color: lavenderblush;
